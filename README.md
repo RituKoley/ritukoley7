@@ -32,8 +32,8 @@ Here are some of my favorite projects:
 
 
 ## 📈 GitHub Stats
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![RituKoley](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RituKoley/ritukoley7)
+![RituKoley][(https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)](https://github-stats-viewer.vercel.app/user/?username=RituKoley)
 
 ## LeetCode Progress  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![](https://leetcard.jacoblin.cool/Rii_7?ext=heatmap)
@@ -45,6 +45,6 @@ Here are some of my HackerRank badges:
 
 ## 📫 How to reach me:
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritu-koley-73174120a/)
-- Email:	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(ritukoleyrk7@gmail.com)
+- Email:	[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ritukoleyrk7@gmail.com)
 
 Thanks for visiting my profile!
