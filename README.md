@@ -35,6 +35,7 @@ Here are some of my favorite projects:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RituKoley/ritukoley7)
 
 ![Ritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RituKoley&show_icons=true&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RituKoley&layout=compact&theme=radical)
 
 ## LeetCode Progress  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![](https://leetcard.jacoblin.cool/Rii_7?ext=heatmap)
