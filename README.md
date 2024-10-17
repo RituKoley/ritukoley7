@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a software developer passionate about technolo
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Projects
 Here are some of my favorite projects:
@@ -31,17 +32,19 @@ Here are some of my favorite projects:
 
 
 ## 📈 GitHub Stats
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![RituKoley](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
-## LeetCode Progress
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+
+## LeetCode Progress  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![](https://leetcard.jacoblin.cool/Rii_7?ext=heatmap)
+
 ## 🏆 HackerRank Badges  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 Here are some of my HackerRank badges:
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Gold-brightgreen)
 ![Java](https://img.shields.io/badge/Java-Silver-blue)
 
 ## 📫 How to reach me:
-- LinkedIn: [Ritu Koley](https://www.linkedin.com/in/ritu-koley-73174120a/)
-- Email: ritukoleyrk7@gmail.com
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritu-koley-73174120a/)
+- Email:	![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(ritukoleyrk7@gmail.com)
 
 Thanks for visiting my profile!
