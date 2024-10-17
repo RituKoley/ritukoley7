@@ -24,16 +24,16 @@ Welcome to my GitHub profile! I'm a software developer passionate about technolo
 ## 🚀 Projects
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/username/project1) - Description of project 1
-- [Project 2](https://github.com/username/project2) - Description of project 2
-- [Project 3](https://github.com/username/project3) - Description of project 3
+- [Project 1](https://github.com/RituKoley/AmazonClone)) - Description of project 1
+- [Project 2](https://github.com/RituKoley/ChatBot) - Description of project 2
+- [Project 3](https://github.com/RituKoley/Library-Management-System) - Description of project 3
 
 ## 🎯 Currently Learning
 
 
 ## 📈 GitHub Stats
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RituKoley/ritukoley7)
-![RituKoley][(https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)](https://github-stats-viewer.vercel.app/user/?username=RituKoley)
+[![RituKoley](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)](https://github-stats-viewer.vercel.app/user/?username=RituKoley)
 
 ## LeetCode Progress  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![](https://leetcard.jacoblin.cool/Rii_7?ext=heatmap)
