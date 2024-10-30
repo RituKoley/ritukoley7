@@ -5,12 +5,11 @@
 Welcome to my GitHub profile! I'm a software developer passionate about technology, open-source contributions, and solving interesting problems. 
 
 ## 🌟 Skills
-- **Languages:** Java, C, Python, JavaScript, Angular Js
+- **Languages:** Java, Python, JavaScript, Angular Js
 - **Web Development:** HTML, CSS, Spring Boot, Flask
 - **Tools:** Git, VSCode
 - **Databases:** MySQL, PostgreSQL, Oracle
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,8 +41,7 @@ Here are some of my favorite projects:
 
 ## 🏆 HackerRank Badges  ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 Here are some of my HackerRank badges:
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Gold-brightgreen)
-![Java](https://img.shields.io/badge/Java-Silver-blue)
+
 
 ## 📫 How to reach me:
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritu-koley-73174120a/)
