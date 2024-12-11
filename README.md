@@ -5,13 +5,12 @@
 Welcome to my GitHub profile! I'm a software developer passionate about technology, open-source contributions, and solving interesting problems. 
 
 ## 🌟 Skills
-- **Languages:** Java, Python, JavaScript, Angular Js
-- **Web Development:** HTML, CSS, Spring Boot, Flask
+- **Languages:** Java, JavaScript
+- **Web Development:** HTML, CSS, Spring Boot, Flask, Angular Js
 - **Tools:** Git, VSCode
 - **Databases:** MySQL, PostgreSQL, Oracle
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -23,12 +22,14 @@ Welcome to my GitHub profile! I'm a software developer passionate about technolo
 ## 🚀 Projects
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/RituKoley/AmazonClone)) - Description of project 1
+- [Project 1](https://github.com/RituKoley/Movie-Recommend-System) - - Description of project 1
 - [Project 2](https://github.com/RituKoley/ChatBot) - Description of project 2
-- [Project 3](https://github.com/RituKoley/Library-Management-System) - Description of project 3
+- [Project 3](https://github.com/RituKoley/AmazonClone)) - Description of project 3
+- [Project 4](https://github.com/RituKoley/Library-Management-System) - Description of project 4
+
 
 ## 🎯 Currently Learning
-
+- DSA
 
 ## 📈 GitHub Stats
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RituKoley/ritukoley7)
